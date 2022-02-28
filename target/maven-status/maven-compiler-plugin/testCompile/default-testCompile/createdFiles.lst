@@ -1,0 +1,11 @@
+com\openlycrm\stepdefinitions\NavigMenuDefs.class
+com\openlycrm\utilities\BrowserUtils.class
+com\openlycrm\utilities\BrowserUtils$1.class
+com\openlycrm\utilities\ConfigurationReader.class
+com\openlycrm\stepdefinitions\LoginStepDefs.class
+com\openlycrm\pages\EventPage.class
+com\openlycrm\runners\cukesRunner.class
+com\openlycrm\stepdefinitions\Hooks.class
+com\openlycrm\pages\BasePage.class
+com\openlycrm\utilities\Driver.class
+com\openlycrm\pages\LoginPage.class
